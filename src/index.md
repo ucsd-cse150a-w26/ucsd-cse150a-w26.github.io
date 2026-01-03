@@ -35,7 +35,7 @@ This web page serves as the main source of announcements and resources for the c
 - General Class Q&A Forum: Discord link on Canvas!
 - Code Q&A Forum: [Piazza](https://piazza.com/)
 - Gradescope: [https://www.gradescope.com](https://www.gradescope.com)
-- Github: [https://github.com/ucsd-cse150a-ss25](https://github.com/ucsd-cse150a-ss25)
+- Github: [https://github.com/ucsd-cse150a-w26](https://github.com/ucsd-cse150a-w26)
 
 - Learning Objectives and Outcomes
   - Upon successful completion of this course, students will be able to:
@@ -281,5 +281,6 @@ Stay tuned for announcements about scheduling a make-up later in the quarter.
 We do this for you; as long as you submit a quiz, lecture handout, or do a lab
 participation in the first week, we will mark you as commencing academic
 activity.
+
 
 
