@@ -24,12 +24,12 @@ This web page serves as the main source of announcements and resources for the c
 
 ## Basics
 
-- Lecture: [Center Hall 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Monday, Tuesday, Wednesday, Thursday 8:00a-9:20a 
-- Discussion: [Center Hall 113](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Friday 8:00p-9:50a
-- “Skill Assessments” Exams: Flexible scheduling in weeks 2, 3, 4, 5 and Makeups at the end of week 5 
+- Lecture: [Ledden Auditorium](https://map.concept3d.com/?id=1005#!m/639912?share), Monday, Wednesday, Friday 8:00a-8:50a 
+- Discussion: [Ledden Auditorium](https://map.concept3d.com/?id=1005#!m/639912?share), Friday 10:00a-10:50a
+- “Skill Assessments” Exams: Flexible scheduling in weeks 3, 5, 7, 9 and makeup(s) in week 10 
   - [Prairie Test Link](https://us.prairietest.com/) - signing up and taking the skill assessments
   - [Prairie Learn Link](https://us.prairielearn.com/pl/login) - practice skill assessments
-- Final Exam (used for making up test credit): Flexible scheduling at the end of the quarter on week 5. Maximum of 1 Make up for Skill Assessments.
+- Final Exam (used for making up test credit): Flexible scheduling at the end of the quarter on week 10.
 
 - Podcasts: [podcast.ucsd.edu](https://podcast.ucsd.edu)
 - General Class Q&A Forum: Discord link on Canvas!
@@ -65,10 +65,7 @@ This web page serves as the main source of announcements and resources for the c
 
 ## Schedule
 
-The schedule using the left side navigation bar outlines topics, due dates, and links to assignments. The
-schedule of lecture topics might change slightly, but I post a general plan so
-you can know roughly where we are headed. If you do not see the weeks listed on the left, click the hamburger icon in the top left to reveal it.
-
+The schedule using the left side navigation bar outlines topics, due dates, and links to assignments. The schedule of lecture topics might change slightly, but I post a general plan so you can know roughly where we are headed. If you do not see the weeks listed on the left, click the hamburger icon in the top left to reveal it.
 
 ## Syllabus
 
@@ -83,7 +80,7 @@ There are several components to the course:
 
 ### Discussion
 
-The course's discussion component meets for 1 hour and 50 minutes every Friday (8 - 9:50 AM). In each discsussion you'll switch between working on your own, working in pairs, and participating in group discussions about your approach, lessons learned, programming problems, and so on. Please bring your laptop to code and follow along.
+The course's discussion component meets for 50 minutes every Friday (10 - 10:50 AM). In each discsussion you'll switch between working on your own, working in pairs, and participating in group discussions about your approach, lessons learned, programming problems, and so on. Please bring your laptop to code and follow along.
 
 The discussion sessions will be led by TAs and tutors, who will note your
 participation in these discussions for credit. At the end of the day you will submit your work to show participation.
@@ -95,7 +92,7 @@ way to make up a dicussion, even for illness, travel, or emergencies.
 
 ### Lecture Sessions
 
-Lecture sessions are on Monday, Tuesday, Wednesday, and Thursday.
+Lecture sessions are on Monday, Wednesday, and Friday.
 
 In each lecture, we will go over Jupyter Notebooks (available electronically via GitHub). At the end of lecture you'll have a chance submit your Jupyter Notebook to Gradescope. You can do this by uploading your ipynb file via the Gradescope app (for iOS and Android) or
 through the web interface. To get participation credit for lecture, you have to
