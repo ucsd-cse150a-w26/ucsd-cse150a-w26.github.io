@@ -1,6 +1,6 @@
 ![ML Drawing<img src="./images/works-my-machine.png" width="576" height="575" />](./images/works-my-machine.png)
 
-# UCSD CSE150A Summer Session I 2025 Syllabus and Logistics
+# UCSD CSE150A Winter 2026 Syllabus and Logistics
 
 - [Edwin Solares](http://edwinsolares.com) (Instructor)
 - Baharan Khatami (TA)
@@ -281,4 +281,5 @@ Stay tuned for announcements about scheduling a make-up later in the quarter.
 We do this for you; as long as you submit a quiz, lecture handout, or do a lab
 participation in the first week, we will mark you as commencing academic
 activity.
+
 
