@@ -108,14 +108,14 @@ required submissions and how that impacts your grade.
 
 ### Weekly Quizzes
 
-Each week there will be an online, untimed, multiple-tries quiz on PrairieLearn. Deadlines for the quizzes can be found on PrairieLearn. Note: **For on time submission, it must be submitted prior to the deadline, regardless of the reason**. The purpose of this quiz is to make sure everyone has checked in on the concepts. They are open for late submission until the end of the quarter, but
+There will be **5** online, untimed, multiple-tries quiz on PrairieLearn. Deadlines for the quizzes can be found on PrairieLearn. Note: **For on time submission, it must be submitted prior to the deadline, regardless of the reason**. The purpose of this quiz is to make sure everyone has checked in on the concepts. They are open for late submission until the end of the quarter, but
 see grading below for how late submissions correspond to grades.
 
 Sometimes quizzes have associated readings or videos to supplement lecture.
 
 ### Homeworks
 
-Homeworks will be released usually every other week and you will typically have two weeks to submit via Gradescope the pdf file **(Note: Not an ipynb!)**. The homework will be due on Sundays, the day before the next homework is released. Homework will only be graded on your ability to complete the assignment based on the directions, and not based on accuracy of your model (unless specified), but must be above random.
+There will be **4** Homeworks. You will typically have two weeks to submit via Gradescope the pdf file **(Note: Not an ipynb!)**. The homework will be due on Sundays, the day before the next homework is released. Homework will only be graded on your ability to complete the assignment based on the directions, and not based on accuracy of your model (unless specified), but must be above random.
 
 For each post, our staff will review it and give a **0-4** score along with feedback:
 
