@@ -139,7 +139,7 @@ This is the only policy for excused homework regardless of the reason. This is a
 Several times during the quarter, you will complete a _skill assessment_
 -- this course's version of exams. You'll be given a jupyter notebook environment to practice on in advance. The practice problems will not be similar to the first skill assessment and will only be there to demonstrate the structure and environment.
 
-On each you will have an autograder with 4 or more questions and 40 minutes to complete each assessment. The skill assessments will start on week 2 and continue for weeks 3, 4 and 5. You will be able to choose a scheduled time each week. On the day of your assessment you must bring a valid picture ID. No notesheet is allowed.
+On each you will have an autograder with 4 or more questions and 40 minutes to complete each assessment. The skill assessments will start on week 3 and continue for weeks 5, 7 and 9. You will be able to choose a scheduled time each week. On the day of your assessment you must bring a valid picture ID. No notesheet is allowed.
 
 Skill assessments will take place in AP&M, **unless you have an AFA letter**. You must schedule a time to take your exams in advance. To do this, visit prairietest.com and log in with your UCSD-associated Google account. From there, you will be able to see the exams available for reservation.
 
