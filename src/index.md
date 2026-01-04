@@ -117,19 +117,22 @@ Sometimes quizzes have associated readings or videos to supplement lecture.
 
 Homeworks will be released usually every other week and you will typically have two weeks to submit via Gradescope the pdf file **(Note: Not an ipynb!)**. The homework will be due on Sundays, the day before the next homework is released. Homework will only be graded on your ability to complete the assignment based on the directions, and not based on accuracy of your model (unless specified), but must be above random.
 
-For each post, our staff will review it and give a **0-3** score along with feedback:
+For each post, our staff will review it and give a **0-4** score along with feedback:
 
-- **3** for a complete submission of professional quality that covers all the expectations listed in the directions
-- **2** for a complete submission with some mistakes, some unclear writing, or some confusing or nonstandard formatting
+- **4** for a complete submission of professional quality that covers all the expectations listed in the directions
+- **3** for a complete submission with some mistakes, some unclear writing, or some confusing or nonstandard formatting
+- **2** for a complete submission with major mistakes, some unclear writing, or some confusing or nonstandard formatting
 - **1** for a submission missing key components, or clear inaccuracies in multiple components
 - **0** for no submission, a blank submission, or a submission of something irrelevant
 
-After each homework (**except the last homework**) is graded, you'll have a chance to *resubmit* it based on the feedback you received, which will detail what you need to do to increase your score. Once the homework is graded and returned with feedback, the resubmission period (max of one week) will be opened.
+After each homework is graded, you'll have a chance to *resubmit* it based on the feedback you received, which will detail what you need to do to increase your score. Once the homework is graded and returned with feedback, the resubmission period (max of one week) will be opened.
 
-- For an original score of **0** or **1**, you can raise your score to **2** (but not to **3**)
-- For an original score of **2**, you can raise your score to **3**
+- For an original score of **0**, you can raise your score to **2** (but not to **3** or **4**)
+- For an original score of **1**, you can raise your score to **3** (but not to **4**)
 
-This is also the only late policy for homework. Unsubmitted reports are initially assigned a **0**, and can get a maximum of **2** points on resubmission. One homework will be dropped. This is the only policy for excused homework regardless of the reason.
+- For an original score of **2**, you can raise your score to **4**
+
+This is the only policy for excused homework regardless of the reason. This is also the only late policy for homework. Unsubmitted reports are initially assigned a **0**, and can get a maximum of **2** points on resubmission. 
 
 ### Skill Assessments
 
