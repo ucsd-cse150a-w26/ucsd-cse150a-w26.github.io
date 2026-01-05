@@ -115,7 +115,7 @@ Sometimes quizzes have associated readings or videos to supplement lecture.
 
 ### Homeworks
 
-There will be **4** Homeworks. You will typically have two weeks to submit via Gradescope the pdf file **(Note: Not an ipynb!)**. The homework will be due on Sundays, the day before the next homework is released. Homework will only be graded on your ability to complete the assignment based on the directions, and not based on accuracy of your model (unless specified), but must be above random.
+There will be **4** Homeworks. You will typically have two weeks to submit via Gradescope the pdf file **(Note: Not an ipynb!)**. The homework will typically be due on Wednesdays. Homework will only be graded on your ability to complete the assignment based on the directions, and not based on accuracy of your model (unless specified), but must be above random.
 
 For each post, our staff will review it and give a **0-4** score along with feedback:
 
