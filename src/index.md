@@ -108,7 +108,7 @@ required submissions and how that impacts your grade.
 
 ### Weekly Quizzes
 
-There will be **5** online, untimed, multiple-tries quiz on PrairieLearn. Deadlines for the quizzes can be found on PrairieLearn. Note: **For on time submission, it must be submitted prior to the deadline, regardless of the reason**. The purpose of this quiz is to make sure everyone has checked in on the concepts. They are open for late submission until the end of the quarter, but
+There will be **10** online, untimed, multiple-tries quiz on PrairieLearn. Deadlines for the quizzes can be found on PrairieLearn. Note: **For on time submission, it must be submitted prior to the deadline, regardless of the reason**. The purpose of this quiz is to make sure everyone has checked in on the concepts. They are open for late submission until the end of the quarter, but
 see grading below for how late submissions correspond to grades.
 
 Sometimes quizzes have associated readings or videos to supplement lecture.
