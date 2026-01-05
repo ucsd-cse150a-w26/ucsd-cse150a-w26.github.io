@@ -11,14 +11,14 @@
 - [PEAS Worksheet](https://drive.google.com/file/d/1QvD5ScPa4OuSQYtxqu8yHf7pwYG0Jf0d/view?usp=sharing)
 - [Blank Worksheet](https://drive.google.com/file/d/1on4yX50nhL2lD7cg5OxilE343GEEJR6J/view?usp=sharing)
 
-<!-- ## Probability and Bayesian Networks Lecture Materials
+## Probability and Bayesian Networks Lecture Materials
 
 - Lecture Slides
   - [Bayes' Theorem](https://drive.google.com/file/d/1j2C60MW0au1z6uCwX-2VD4yAjKo-UbDB/view?usp=sharing)
   - [Advanced Probability](https://drive.google.com/file/d/1WmxOJ4QiQdXSGEQ9ZqARQfTytkUxUCw7/view?usp=drive_link)
-- Notebooks
+<!-- - Notebooks
   - [Agents](https://github.com/ucsd-cse150a-ss25/notebooks/blob/main/agents.ipynb)
-## Homework 1 - Due 11:59 PM PST Wed, June 9 - Assignment Details on Canvas -->
+## Homework 1 - Due 11:59 PM PST Wed, June 9 - Assignment Details on Canvas
 
 <!--## Week 1 Discussion - Recording  - July 4 is a Holiday!
 - [Podcast](https://canvas.ucsd.edu/courses/66995/external_tools/5826)
