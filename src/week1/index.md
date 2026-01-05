@@ -2,14 +2,14 @@
 
 ## Introduction, Agents and Environments Lecture Material
 
-<!-- **Note:** There is no lecture participation for Week 1 Monday.
+**Note:** There is no lecture participation for Week 1 Monday.
 
 - Lecture Slides
   - [Intro to AI and Agents](https://drive.google.com/file/d/1jostf4D9ezDgqxJ4rRW9RfKyhNw9xjSi/view?usp=sharing)
 - Notebooks
   - [Jupyter Notebook Tutorial](https://drive.google.com/file/d/1n5p2kT7g0oQLzcLec2u10hFxfo5RORl0/view?usp=sharing)
-- [Worksheet 1](https://drive.google.com/file/d/1QvD5ScPa4OuSQYtxqu8yHf7pwYG0Jf0d/view?usp=sharing)
-- [Wednesday Worksheet](https://drive.google.com/file/d/1QvD5ScPa4OuSQYtxqu8yHf7pwYG0Jf0d/view) -->
+- [PEAS Worksheet](https://drive.google.com/file/d/1QvD5ScPa4OuSQYtxqu8yHf7pwYG0Jf0d/view?usp=sharing)
+- [Blank Worksheet](https://drive.google.com/file/d/1on4yX50nhL2lD7cg5OxilE343GEEJR6J/view?usp=sharing)
 
 <!-- ## Probability and Bayesian Networks Lecture Materials
 
