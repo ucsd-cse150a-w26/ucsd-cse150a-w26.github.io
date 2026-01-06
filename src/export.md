@@ -3,39 +3,25 @@
 For many assignments in this class, you will need to export a Jupyter Notebook
 for submission to Gradescope. Here is a tutorial on how to do so:
 
-## Step 1: Download the notebook file
+**Warning: we do not support local jupyter notebook installations. If this does
+not work on your computer, we will ask you to upload it to Google Colab first.**
 
-![Download menu](./images/colab_files_download_notebook.png)
+## Step 1: Add a code cell
 
-Go to `File > Download > Download .ipynb` and download the notebook file. It is
-important that you complete this step before step 2 so that `apt-get` and `pip`
-do not clog up your submission.
+Paste the following into the code cell and run it:
 
-## Step 2: Install tools on Colab
-
-Create and run the following cell:
-
-```python
-!apt-get install texlive texlive-xetex texlive-latex-extra pandoc
-!pip install pypandoc
+```
+!pip install nbconvert[webpdf] > /dev/null 2>&1
+!playwright install chromium > /dev/null 2>&1
+!apt-get install -y libatk1.0-0 libatk-bridge2.0-0 libxcomposite1 > /dev/null 2>&1
+import json
+from google.colab import _message
+nb = _message.blocking_request('get_ipynb')['ipynb']
+with open('/content/export.ipynb', 'w') as f:
+    json.dump(nb, f)
+!jupyter nbconvert --to webpdf --embed-images export.ipynb
 ```
 
-## Step 3: Upload the notebook back to the directory filesystem
+## Step 2: Download export.pdf
 
-Re-upload the notebook to Google Colab's filesystem, either by drag and dropping
-on the files tab or clicking the upload button. Your files tab should now look
-something like this:
-![Filesystem Picture](./images/colab_files_upload_notebook.png)
-
-## Step 4: Create and download the pdf
-
-Create and run the following cell, replacing `discussion1_bayes_rule` with the
-name of the notebook you uploaded:
-
-```python
-!jupyter nbconvert --to pdf discussion1_bayes_rule.ipynb
-from google.colab import files
-files.download('discussion1_bayes_rule.pdf')
-```
-
-The pdf should automatically be downloaded to your computer. All done!
+And you are done!
