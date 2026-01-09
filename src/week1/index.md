@@ -11,6 +11,10 @@
 - [PEAS Worksheet](https://drive.google.com/file/d/1QvD5ScPa4OuSQYtxqu8yHf7pwYG0Jf0d/view?usp=sharing)
 - [Blank Worksheet](https://drive.google.com/file/d/1on4yX50nhL2lD7cg5OxilE343GEEJR6J/view?usp=sharing)
 
+- Discussion Session Notebooks
+  - [Intro to Python](https://colab.research.google.com/drive/1DZwWkSo9GOdyTdSAGW-sUTr3Xew79o1t?usp=sharing)
+  - [Intro to Numpy](https://colab.research.google.com/drive/1-QCuOgLt-6U-OAYDJW4tbQeXa8MjoSaV?usp=sharing)
+
 ## Probability and Bayesian Networks Lecture Materials
 
 - Lecture Slides
@@ -41,3 +45,4 @@
 - [Supplementary Notes on Probability](https://drive.google.com/file/d/1v0eUQrGOtc_1xlUz3PV1Xjyj6Yg36_53/view?usp=drive_link)
 
 Week 1 Discussion coincides with the Fourth of July, so there will be a recording sent out. Participation will be completed asynchronously.-->
+
