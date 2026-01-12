@@ -1,5 +1,19 @@
 # Week 2 – Probability and Bayesian Networks
 
+## Probability and Bayesian Networks Lecture Materials
+
+- Lecture Slides
+  - [Bayes' Theorem](https://drive.google.com/file/d/1j2C60MW0au1z6uCwX-2VD4yAjKo-UbDB/view?usp=sharing)
+  - [Advanced Probability](https://drive.google.com/file/d/1WmxOJ4QiQdXSGEQ9ZqARQfTytkUxUCw7/view?usp=drive_link)
+
+- Notebooks
+  - [Agents](https://github.com/ucsd-cse150a-ss25/notebooks/blob/main/agents.ipynb)
+
+- [Blank Worksheet](https://drive.google.com/file/d/1on4yX50nhL2lD7cg5OxilE343GEEJR6J/view?usp=sharing)
+
+## Week 2 Discussion
+
+- TBA
 <!-- ## Homework 1 - Due 11:59 PM Wednesday, July 9 (Assignment on Canvas)
 
 ## Week 2 Lecture Materials
