@@ -15,11 +15,11 @@
   - [Intro to Python](https://colab.research.google.com/drive/1DZwWkSo9GOdyTdSAGW-sUTr3Xew79o1t?usp=sharing)
   - [Intro to Numpy](https://colab.research.google.com/drive/1-QCuOgLt-6U-OAYDJW4tbQeXa8MjoSaV?usp=sharing)
 
-## Probability and Bayesian Networks Lecture Materials
+<!-- ## Probability and Bayesian Networks Lecture Materials
 
 - Lecture Slides
   - [Bayes' Theorem](https://drive.google.com/file/d/1j2C60MW0au1z6uCwX-2VD4yAjKo-UbDB/view?usp=sharing)
-  - [Advanced Probability](https://drive.google.com/file/d/1WmxOJ4QiQdXSGEQ9ZqARQfTytkUxUCw7/view?usp=drive_link)
+  - [Advanced Probability](https://drive.google.com/file/d/1WmxOJ4QiQdXSGEQ9ZqARQfTytkUxUCw7/view?usp=drive_link) -->
 <!-- - Notebooks
   - [Agents](https://github.com/ucsd-cse150a-ss25/notebooks/blob/main/agents.ipynb)
 ## Homework 1 - Due 11:59 PM PST Wed, June 9 - Assignment Details on Canvas
