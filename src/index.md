@@ -24,7 +24,7 @@ This web page serves as the main source of announcements and resources for the c
 
 ## Basics
 
-- Lecture: [PODEM 1A20](https://map.concept3d.com/?id=1005#!m/761769?share), Monday, Wednesday, Friday 8:00a-8:50a 
+- Lecture: [Ledden Auditorium](https://map.concept3d.com/?id=1005#!m/639912?share), Monday, Wednesday, Friday 8:00a-8:50a 
 - Discussion: [PODEM 1A20](https://map.concept3d.com/?id=1005#!m/761769?share), Friday 10:00a-10:50a
 - “Skill Assessments” Exams: Flexible scheduling in weeks 3, 5, 7, 9 and makeup(s) in week 10 
   - [Prairie Test Link](https://us.prairietest.com/) - signing up and taking the skill assessments
