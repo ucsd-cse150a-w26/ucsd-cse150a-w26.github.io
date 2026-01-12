@@ -11,9 +11,6 @@
 
 - [Blank Worksheet](https://drive.google.com/file/d/1on4yX50nhL2lD7cg5OxilE343GEEJR6J/view?usp=sharing)
 
-## Week 2 Discussion
-
-- TBA
 <!-- ## Homework 1 - Due 11:59 PM Wednesday, July 9 (Assignment on Canvas)
 
 ## Week 2 Lecture Materials
