@@ -7,6 +7,8 @@
 
 [Week 2 - Probability and Bayesian Networks](./week2/index.md)
 
+[Week 3 - Advanced Probability, Bayesian Networks and D-Seperation](./week3/index.md)
+
 <!--[Week 3 - Sampling, Hidden Markov Model's, Foward-Backward and Viterbi's Algorithms](./week3/index.md)
 
 [Week 4 - HMM Coding Review, Sampling, Expectation Maximization & EM Special Cases](./week4/index.md)

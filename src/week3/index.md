@@ -1,4 +1,19 @@
-# Week 3 – Sampling, Hidden Markov Model's, Foward-Backward and Viterbi's Algorithms
+# Week 3 – Bayesian Networks and D-Seperation
+
+## Bayesian Networks and D-Seperation Lecture Materials
+
+- Lecture Slides
+  - [Adv Topics in Prob.](https://drive.google.com/file/d/1WmxOJ4QiQdXSGEQ9ZqARQfTytkUxUCw7/view?usp=drive_link)
+  - [Bayesian Networks](https://drive.google.com/file/d/1DoTTiny7hC5QaMNvboGfs9NqrJ3fZQ-0/view?usp=sharing)
+  - [D-Separation](https://drive.google.com/file/d/1Y8giEWkZxurL0iisiMdMGerhyLffMnyE/view?usp=drive_link)
+- Notebooks (Note if imports are used you will need to upload that python script that is imported)
+  - [Probability Notebook](https://github.com/ucsd-cse150a-ss25/notebooks/blob/main/probability.ipynb)
+  - [Bayesian Network Notebook](https://github.com/ucsd-cse150a-ss25/notebooks/blob/main/bayesnets.ipynb)
+- Worksheets
+  - [Blank Worksheet](https://drive.google.com/file/d/1on4yX50nhL2lD7cg5OxilE343GEEJR6J/view?usp=sharing)
+  - [Probability and Bayesian Networks Worksheet](https://drive.google.com/file/d/1qqax-sljWvWcvuyiLwvIrIrZwDLSY76u/view?usp=drive_link)
+
+<!-- # Week 3 – Sampling, Hidden Markov Model's, Foward-Backward and Viterbi's Algorithms
 
 ## Homework 2 - Due 11:59 PM Wednesday, July 16 (Assignment on Canvas)
 
@@ -24,7 +39,7 @@
   - [HMM, Forward/Backward/Veterbi Algorithm](https://drive.google.com/file/d/1AdWOBJLthsC27-gPCEGR6_Uj1QLDLuZl/view?usp=sharing)
 - Discussion Notebooks
   - [HMMs](https://colab.research.google.com/drive/1DdNTHzqFqmrHzyiGb7H9b6zmLe2SXVU3?usp=sharing)
-The participation due date will be during discussion.
+The participation due date will be during discussion. -->
 
 <!--
 - [Monday Discussion Slides](https://drive.google.com/file/d/1Y8giEWkZxurL0iisiMdMGerhyLffMnyE/view?usp=drive_link)
