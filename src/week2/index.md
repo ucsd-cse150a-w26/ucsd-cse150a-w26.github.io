@@ -3,7 +3,7 @@
 ## Probability and Bayesian Networks Lecture Materials
 
 - Lecture Slides
-  - [Bayes' Theorem](https://drive.google.com/file/d/1j2C60MW0au1z6uCwX-2VD4yAjKo-UbDB/view?usp=sharing)
+  - [Bayes' Theorem](https://drive.google.com/file/d/15QMjADt6fkCiS_boiXvgxGvoT3d052Lz/view?usp=sharing)
   - [Advanced Probability](https://drive.google.com/file/d/1WmxOJ4QiQdXSGEQ9ZqARQfTytkUxUCw7/view?usp=drive_link)
 
 - Notebooks
@@ -36,4 +36,5 @@
   - [Probability excercises](https://drive.google.com/file/d/1dmiLVedxZo8TezWtXXJ9Z1DM-qoKKDBb/view?usp=sharing)
 The participation due date will be during discussion. -->
 <!-- - [Supplementary Notes on Probability](https://drive.google.com/file/d/1v0eUQrGOtc_1xlUz3PV1Xjyj6Yg36_53/view?usp=drive_link)
+
 <!-- - [Week 2 Discussion Slides](https://drive.google.com/file/d/1YJrfNfi2LFQd1DQT19c52jOFlnxgeOgs/view?usp=sharing)
