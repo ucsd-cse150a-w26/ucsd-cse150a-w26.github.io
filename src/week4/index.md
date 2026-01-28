@@ -2,7 +2,7 @@
 
 ## Homework 3 - Due 11:59 PM Wednesday, July 23 (Assignment on Canvas) -->
 
-# Week 4 – D-Seperation, CPTs and Markov Blankets
+# Week 4 – D-Seperation, CPTs and Expectation Maximization
 
 ## Week 4 Course Materials
 
@@ -32,3 +32,4 @@ The participation due date will be during discussion. -->
 - Friday Lecture Slides: Continued From Wedneday
 - [Friday Lecture Handout](https://drive.google.com/file/d/1zpQTw3SxBDeytTgrKyObpDWqZ0soPinQ/view?usp=drive_link)
 -->
+
