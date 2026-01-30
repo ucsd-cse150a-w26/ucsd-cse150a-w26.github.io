@@ -2,7 +2,7 @@
 
 ## Homework 3 - Due 11:59 PM Wednesday, July 23 (Assignment on Canvas) -->
 
-# Week 4 – D-Seperation, CPTs and Expectation Maximization
+# Week 4 – D-Seperation, CPTs and Maximum Likelihood Estimation
 
 ## Week 4 Course Materials
 
@@ -11,7 +11,7 @@
   - [Expectation Maximization Algorithm](https://drive.google.com/file/d/10gx2L08wVlAdwFF5nVa8Wa9Pi3qYQw8l/view?usp=sharing) -->
   - [Bayesian Networks](https://drive.google.com/file/d/1DoTTiny7hC5QaMNvboGfs9NqrJ3fZQ-0/view?usp=sharing)
   - [D-Separation](https://drive.google.com/file/d/1Y8giEWkZxurL0iisiMdMGerhyLffMnyE/view?usp=drive_link)
-  - [Expectation Maximization Algorithm](https://drive.google.com/file/d/10gx2L08wVlAdwFF5nVa8Wa9Pi3qYQw8l/view?usp=sharing)
+  - [Maximum Likelihood Estimation](#)
   - [CPTs, Markov Blankets](https://drive.google.com/file/d/1RUGNO1byKdfZNP26h6x3vpRncLui2Tnb/view?usp=drive_link)
 - Notebooks (Note if imports are used you will need to upload that python script that is imported)
   <!-- - [Forward and Backward Algorithm](https://drive.google.com/file/d/15P-13MMOB-lfu21ScQVC3qGf2MMIEQfK/view?usp=sharing)
