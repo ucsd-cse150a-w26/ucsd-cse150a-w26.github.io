@@ -13,6 +13,9 @@
   - [D-Separation](https://drive.google.com/file/d/1Y8giEWkZxurL0iisiMdMGerhyLffMnyE/view?usp=drive_link)
   - [Maximum Likelihood Estimation](https://drive.google.com/file/d/1Pz0E5K5Wzse2N_gwHGBaInpYINIStAwC/view?usp=drive_link)
   - [CPTs, Markov Blankets](https://drive.google.com/file/d/1RUGNO1byKdfZNP26h6x3vpRncLui2Tnb/view?usp=drive_link)
+- Discussion
+  - [D-Sep Notebook](https://colab.research.google.com/drive/1WzUZNE2NEgDLAOpVdOXEDhgX_kffvtJo?usp=sharing)
+  - [MLE Slides](https://drive.google.com/file/d/1hE2SGtRV5U4idR4CGlBgE5WoENmXyFsh/view?usp=sharing)
 - Notebooks (Note if imports are used you will need to upload that python script that is imported)
   <!-- - [Forward and Backward Algorithm](https://drive.google.com/file/d/15P-13MMOB-lfu21ScQVC3qGf2MMIEQfK/view?usp=sharing)
   - [Viterbi's Algorithm - NetworkX + Graph Theory](https://colab.research.google.com/drive/1AqMCiiHKjb5nVcF_Wq4yuyJZha2c6q_-?usp=sharing)
@@ -32,4 +35,5 @@ The participation due date will be during discussion. -->
 - Friday Lecture Slides: Continued From Wedneday
 - [Friday Lecture Handout](https://drive.google.com/file/d/1zpQTw3SxBDeytTgrKyObpDWqZ0soPinQ/view?usp=drive_link)
 -->
+
 
