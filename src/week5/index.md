@@ -1,6 +1,5 @@
-# Week 5 – Expectation Maximization in HMMs, EM Special Cases, and Markov Decision Processes
+# Week 5 – Maximum Likelihood Estimation, Hidden Markov Model's
 
-## Homework 4 - Due 11:59 PM Wednesday, July 30 (Assignment on Canvas)
 
 ## Week 5 Course Materials
 
