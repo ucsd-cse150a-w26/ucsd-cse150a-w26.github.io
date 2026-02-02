@@ -10,6 +10,8 @@
 [Week 3 - Advanced Probability, Bayesian Networks and D-Seperation](./week3/index.md)
 
 [Week 4 - D-Seperation, CPTs and Maximimum Likelihood Estimation](./week4/index.md)
+
+[Week 5 – Hidden Markov Model's, Maximum Likelihood Estimation, EM Algorithm](./week5/index.md)
 <!--[Week 3 - Sampling, Hidden Markov Model's, Foward-Backward and Viterbi's Algorithms](./week3/index.md)
 
 [Week 4 - HMM Coding Review, Sampling, Expectation Maximization & EM Special Cases](./week4/index.md)
