@@ -1,4 +1,4 @@
-# Week 5 – Maximum Likelihood Estimation, Hidden Markov Model's
+# Week 5 – Maximum Likelihood Estimation and Hidden Markov Model's
 
 
 ## Week 5 Course Materials
