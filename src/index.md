@@ -119,10 +119,10 @@ There will be **4** Homeworks. You will typically have two weeks to submit via G
 
 For each post, our staff will review it and give a **0-4** score along with feedback:
 
-- **4** for a complete submission of professional quality that covers all the expectations listed in the directions
-- **3** for a complete submission with some mistakes, some unclear writing, or some confusing or nonstandard formatting
-- **2** for a complete submission with major mistakes, some unclear writing, or some confusing or nonstandard formatting
-- **1** for a submission missing key components, or clear inaccuracies in multiple components
+- **4** for a complete submission of professional quality that covers all the expectations listed in the directions (>= 90)
+- **3** for a complete submission with some mistakes, some unclear writing, or some confusing or nonstandard formatting (>= 80)
+- **2** for a complete submission with major mistakes, some unclear writing, or some confusing or nonstandard formatting (>= 70)
+- **1** for a submission missing key components, or clear inaccuracies in multiple components (>= 60)
 - **0** for no submission, a blank submission, or a submission of something irrelevant
 
 After each homework is graded, you'll have a chance to *resubmit* it based on the feedback you received, which will detail what you need to do to increase your score. Once the homework is graded and returned with feedback, the resubmission period (max of one week) will be opened.
