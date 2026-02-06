@@ -12,6 +12,9 @@
 [Week 4 - D-Seperation, CPTs and Maximimum Likelihood Estimation](./week4/index.md)
 
 [Week 5 – Maximum Likelihood Estimation and Hidden Markov Model's](./week5/index.md)
+
+[Week 6 - Hidden Markove Model's, Viterbi's Algorithm, Coding HMMs and EM Algorithm Introduction](./week6/index.md)
+
 <!--[Week 3 - Sampling, Hidden Markov Model's, Foward-Backward and Viterbi's Algorithms](./week3/index.md)
 
 [Week 4 - HMM Coding Review, Sampling, Expectation Maximization & EM Special Cases](./week4/index.md)
