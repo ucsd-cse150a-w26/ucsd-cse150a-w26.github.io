@@ -7,6 +7,7 @@
 - Worksheets
   - [Monday Lecture Participation](https://colab.research.google.com/drive/1AqMCiiHKjb5nVcF_Wq4yuyJZha2c6q_-?usp=sharing)
   - [Blank Worksheet](https://drive.google.com/file/d/1on4yX50nhL2lD7cg5OxilE343GEEJR6J/view?usp=sharing)
+  - [Additional HMM Practice Worksheet](https://drive.google.com/file/d/1H1PCqqUEdoQ6EVG5wjeMuXhmthmkYxPq/view?usp=sharing)
 <!--- [Monday Discussion Slides](https://drive.google.com/file/d/1HF66yUO0U-gv3G_-O15D4MbmvJ-3Zob9/view?usp=drive_link)
   - [handout1](https://drive.google.com/file/d/1MSg5WB2lyvFNK1xMwMwloBU3bruSVd7S/view?usp=sharing)
   - [handout2](https://drive.google.com/file/d/13VV5C_tMnp5a8Q3fBRiWk8MNdhGDFEpg/view?usp=sharing)
