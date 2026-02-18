@@ -15,6 +15,8 @@
 
 [Week 6 - Hidden Markove Model's, Viterbi's Algorithm, Coding HMMs and EM Algorithm Introduction](./week6/index.md)
 
+[Week 7 – More Coding (Forward & Backward and Viterbi's) and EM Algorithm Introduction](./week7/index.md)
+
 <!--[Week 3 - Sampling, Hidden Markov Model's, Foward-Backward and Viterbi's Algorithms](./week3/index.md)
 
 [Week 4 - HMM Coding Review, Sampling, Expectation Maximization & EM Special Cases](./week4/index.md)
