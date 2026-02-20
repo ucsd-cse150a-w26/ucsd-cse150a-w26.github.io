@@ -8,8 +8,7 @@
   - [Expectation Maximization Algorithm](https://drive.google.com/file/d/10gx2L08wVlAdwFF5nVa8Wa9Pi3qYQw8l/view?usp=sharing)
   - [EM in HMMs](https://drive.google.com/file/d/1QWzx_aBaYUe9v3A5iyVfJ0SAuGYolHcF/view?usp=sharing)
 - Discussion:
-  - [Viterbi](https://colab.research.google.com/drive/1AqMCiiHKjb5nVcF_Wq4yuyJZha2c6q_-?usp=sharing)
-  - [EM slides](https://drive.google.com/file/d/1oQQB8BAHE3uc9nKAERndPvMMLhctsJXo/view?usp=sharing)   
+  - [Viterbi](https://colab.research.google.com/drive/1AqMCiiHKjb5nVcF_Wq4yuyJZha2c6q_-?usp=sharing)  
 - Notebooks
   - [Forward and Backward Algorithm](https://drive.google.com/file/d/15P-13MMOB-lfu21ScQVC3qGf2MMIEQfK/view?usp=sharing)
   - [Viterbi's Algorithm - NetworkX + Graph Theory](https://colab.research.google.com/drive/1AqMCiiHKjb5nVcF_Wq4yuyJZha2c6q_-?usp=sharing)
@@ -17,3 +16,4 @@
 - Worksheets
 
   - [Blank Worksheet](https://drive.google.com/file/d/1on4yX50nhL2lD7cg5OxilE343GEEJR6J/view?usp=sharing)
+
