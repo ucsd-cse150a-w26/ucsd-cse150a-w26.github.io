@@ -17,7 +17,7 @@
 
 [Week 7 – More Coding (Forward & Backward and Viterbi's) and EM Algorithm Introduction](./week7/index.md)
 
-[Week 8 - Likelihood Weighting, Expectation Maximation and MonteCarlo Methods](./week8/index.md)
+[Week 8 - Expectation Maximation and MonteCarlo Methods](./week8/index.md)
 
 <!--[Week 3 - Sampling, Hidden Markov Model's, Foward-Backward and Viterbi's Algorithms](./week3/index.md)
 
