@@ -5,7 +5,10 @@
 - Lecture Slides
   - [Bayes' Theorem](https://drive.google.com/file/d/15QMjADt6fkCiS_boiXvgxGvoT3d052Lz/view?usp=sharing)
   - [Advanced Probability](https://drive.google.com/file/d/1WmxOJ4QiQdXSGEQ9ZqARQfTytkUxUCw7/view?usp=drive_link)
-
+- Discussion
+  - [NetworkX Notebook](https://colab.research.google.com/drive/1EicgkS9kM680RTI7I7XEi0An-7yDaZyz?usp=sharing)
+  - [Probability Concepts](https://drive.google.com/file/d/12-7IsQrNtq_hv8VwqPD1gPVQbGikyb_Y/view?usp=sharing)
+  - [Bayes Rule Example Notebook](https://colab.research.google.com/drive/16dJgFCsftDb5IGXaBaE6rcsw9N9HazsW?usp=sharing)
 - Notebooks
   - [Agents](https://github.com/ucsd-cse150a-ss25/notebooks/blob/main/agents.ipynb)
 
@@ -38,4 +41,5 @@ The participation due date will be during discussion. -->
 <!-- - [Supplementary Notes on Probability](https://drive.google.com/file/d/1v0eUQrGOtc_1xlUz3PV1Xjyj6Yg36_53/view?usp=drive_link)
 
 <!-- - [Week 2 Discussion Slides](https://drive.google.com/file/d/1YJrfNfi2LFQd1DQT19c52jOFlnxgeOgs/view?usp=sharing)
+
 
