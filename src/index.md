@@ -258,8 +258,7 @@ your own, and review your group's discussion notes. This is why it's good to mak
 
 **I missed a quiz deadline, what should I do?**
 
-Quiz 1 and Quiz 2's deadlines have been extended until the end of the quarter. For Quiz 3 and onwards,
-there is a late submission penalty; you can only earn 80% of the credit remaining that you can normally earn.
+For Quiz 1-10, there is a late submission penalty; you can only earn 80% of the credit remaining that you can normally earn.
 
 **I missed a homework deadline, what should I do?**
 
